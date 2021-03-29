@@ -1,0 +1,6 @@
+app:
+  datasource:
+    jdbc-url: jdbc:postgresql://localhost:8000/demodb
+    username: postgres
+    password: fighteros00
+    pool-size: 30
